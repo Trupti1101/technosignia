@@ -1,0 +1,5 @@
+public class simple{
+psvm(){
+sysout("story implementation by trupti")
+}
+}
